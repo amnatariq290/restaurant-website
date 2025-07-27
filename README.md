@@ -1,52 +1,60 @@
-# React Restaurant website
+# 🍽️ Yes Cuisines – React Restaurant Website
 
-- keywords: HTML, CSS, JavaScript, React v18, React hooks, React Router, Firebase API
+A beautifully designed, fully responsive restaurant website built using **ReactJS**. This project includes a dynamic homepage, categorized menu, reservation form, and contact page — everything a modern restaurant site needs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+👉 https://restaurant-website-rho-two.vercel.app/
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Features
 
-### `npm test`
+- ✨ **Hero Section** with call-to-action buttons
+- 🍕 **Featured Dishes** & Explore Menu
+- 📋 **Menu Page** with filtering & sorting
+- 📖 **About Page** introducing the story & team
+- 📞 **Contact Page** with form, map, and details
+- 📱 **Fully Responsive** – mobile to desktop
+- 🎨 Clean UI with modern layout and color scheme
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-## More Details
+## 🛠️ Tech Stack
 
-This is fully functional restaurant website created with React Router.
+| Frontend        | Tools/Libraries              |
+|----------------|------------------------------|
+| ReactJS         | React Router for routing     |
+| Tailwind CSS    | For styling                  |
+| React Context   | For simple state management  |
+| GitHub + Vercel | Deployment                   |
 
-- Main landing page
-- Menu page
-- Online takeout order system
-- Reservation system (work in progress)
+---
 
-## Features:
 
-Here's a list of features included in this project
 
-- Fully interactive using HTML, CSS, JavaScript
-- Dynamically render CSS classes with useEffect hook
-- Add to shopping cart & manage shopping cart functionality
-- Awesome modern minimalist UI
-- UseReducer and useContext hooks for complex state management
-- User input validation for text input
-- HTTP get/post request to Firebase backend to fetch menu data
-- sort by price/alphabet feature for menu items
+## 📝 Setup Instructions
 
-## Deploy to Netlify
+```bash
+# Clone the repository
+git clone https://github.com/amnatariq290/restaurant-website.git
+cd restaurant-website
 
-link: [https://yescuisine.netlify.app/](https://yescuisine.netlify.app/)
+# Install dependencies
+npm install
 
-## Screenshots
+# Start development server
+npm start
+---
+
+## 📝 Credits
+
+Based on an open-source template by original author
+
+Modified and customized by Amna Tariq as part of an internship project
+
 
 ![Alt text](/sc/screenshots.gif?raw=true "Optional Title")
