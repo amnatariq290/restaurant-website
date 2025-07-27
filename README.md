@@ -48,6 +48,7 @@ npm install
 
 # Start development server
 npm start
+
 ---
 
 ## 📝 Credits
@@ -57,4 +58,9 @@ Based on an open-source template by original author
 Modified and customized by Amna Tariq as part of an internship project
 
 
+---
+
+## Screenshots
+
 ![Alt text](/sc/screenshots.gif?raw=true "Optional Title")
+
