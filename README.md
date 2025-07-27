@@ -2,14 +2,14 @@
 
 A beautifully designed, fully responsive restaurant website built using **ReactJS**. This project includes a dynamic homepage, categorized menu, reservation form, and contact page — everything a modern restaurant site needs.
 
----
+
 
 ## 🚀 Live Demo
 
 👉 https://restaurant-website-rho-two.vercel.app/
 
 
----
+
 
 ## 📌 Features
 
@@ -58,7 +58,7 @@ Based on an open-source template by original author
 Modified and customized by Amna Tariq as part of an internship project
 
 
----
+
 
 ## Screenshots
 
